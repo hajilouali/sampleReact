@@ -1,0 +1,19 @@
+{
+  "Products": [
+    {
+      "productname": [
+        "کوله پشتی کوهنوردی "
+      ],
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/a8ba2cce4ab4244abf44723e8d8fefc15b331e2d_1652000583.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "productprice": "1000000",
+      "fullname": "3",
+      "id": 1
+    },
+    {
+      "productname": "کیف کمری مدل NA38",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/0b4f4c1cc3ca603b5e30ff296d0e17e0cd7e4676_1631336690.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "productprice": "200000",
+      "id": 2
+    }
+  ]
+}
